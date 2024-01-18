@@ -4,16 +4,8 @@
   "IconURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorant-icon.png?raw=true",
   "Name": "Valorant",
   "Description": "Valorant on sale now! Enjoy the game with our stats Loader.",
-  "PriceInfo": [
-    {
-      "Price": "50",
-      "Currency": "USD"
-    }
-  ],
-  "Status": "Coming Soon!",
-  "Badges": [
-    "CrownBadge",
-    "BestBadge"
-  ],
+  "Price": "50$",
+  "Status": "COMING SOON!",
+  "Badge": "Testbadge",
   "ButtonText": "PRE-PURCHASE"
 }
