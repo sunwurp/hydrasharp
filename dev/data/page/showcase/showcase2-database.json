@@ -1,7 +1,7 @@
 {
-  "BannerURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorantbanner.png?raw=true",
-  "LogoURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorant-icon.png?raw=true",
-  "IconURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorant-icon.png?raw=true",
+  "BannerURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/acvalhallabanner.png?raw=true",
+  "LogoURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/assasinscreedvalhalla_icon.png?raw=true",
+  "IconURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/assasinscreedvalhalla_icon.png?raw=true",
   "Name": "AC Valhalla",
   "Description": "Introducing the new loader for ACValhalla with more than +15 features!",
   "PriceInfo": [
