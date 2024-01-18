@@ -4,16 +4,8 @@
   "IconURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/assasinscreedvalhalla_icon.png?raw=true",
   "Name": "AC Valhalla",
   "Description": "Introducing the new loader for ACValhalla with more than +15 features!",
-  "PriceInfo": [
-    {
-      "Price": "10",
-      "Currency": "$"
-    }
-  ],
+  "Price": "10$",
   "Status": "NOW AVAILABLE!",
-  "Badges": [
-    "CrownBadge",
-    "BestBadge"
-  ],
+  "Badge": "Testbadge",
   "ButtonText": "BUY NOW"
 }
