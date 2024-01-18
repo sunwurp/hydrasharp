@@ -2,18 +2,18 @@
   "BannerURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorantbanner.png?raw=true",
   "LogoURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorant-icon.png?raw=true",
   "IconURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorant-icon.png?raw=true",
-  "Name": "Valorant",
-  "Description": "Valorant on sale now! Enjoy the game with our stats Loader.",
+  "Name": "AC Valhalla",
+  "Description": "Introducing the new loader for ACValhalla with more than +15 features!",
   "PriceInfo": [
     {
-      "Price": "telephone",
-      "Currency": "USD"
+      "Price": "10",
+      "Currency": "$"
     }
   ],
-  "Status": "Coming Soon!",
+  "Status": "NOW AVAILABLE!",
   "Badges": [
     "CrownBadge",
     "BestBadge"
   ],
-  "ButtonText": "PRE-PURCHASE"
+  "ButtonText": "BUY NOW"
 }
