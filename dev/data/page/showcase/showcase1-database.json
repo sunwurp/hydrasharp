@@ -1,0 +1,19 @@
+{
+  "BannerURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorantbanner.png?raw=true",
+  "LogoURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorant-icon.png?raw=true",
+  "IconURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/valorant-icon.png?raw=true",
+  "Name": "Valorant",
+  "Description": "Valorant on sale now! Enjoy the game with our stats Loader.",
+  "PriceInfo": [
+    {
+      "Price": "telephone",
+      "Currency": "USD"
+    }
+  ],
+  "Status": "Coming Soon!",
+  "Badges": [
+    "CrownBadge",
+    "BestBadge"
+  ],
+  "ButtonText": "PRE-PURCHASE"
+}
