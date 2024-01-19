@@ -1,1 +1,14 @@
-
+{
+  "BannerURL": "https://github.com/sunwurp/hydrasharp/blob/main/dev/img/UpdateBanner.png?raw=true",
+  "Name": "Update",
+  "CLDate": "18.01.2024",
+  "CL1Title": "[+] What's New!",
+  "CL1Content": "Update and Discover menu has been added with Luncerwin version 1.0.2. So you will be able to see games that are not in the showcase and be aware of new features that come with updates.",
+  "CL2Title": "[</>] Update",
+  "CL2Content": "Update and Discover menu has been added with Luncerwin version 1.0.2. So you will be able to see games that are not in the showcase and be aware of new features that come with updates.",
+  "CL3Title": "[-] Fixed",
+  "CL3Content": "Update and Discover menu has been added with Luncerwin version 1.0.2. So you will be able to see games that are not in the showcase and be aware of new features that come with updates.",
+  "FooderText": "Follow us for more updates!",
+  "Developer": "sunwurp",
+  "DeveloperLink": "https://youtube.com/@sunwurp"
+}
